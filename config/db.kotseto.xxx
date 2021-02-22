@@ -10,8 +10,7 @@ $ORIGIN example.com.
 	3600 IN NS a.iana-servers.net.
 	3600 IN NS b.iana-servers.net.
 
-gateway    IN A     192.168.1.1
-
+global-store    IN A     10.77.150.10
 
 ; NOTES:
 ; If you wish for this file to be reloaded after change,
